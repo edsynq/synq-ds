@@ -1,0 +1,67 @@
+// synq semantic colors 
+
+name : Text/text-txt-dark
+TailwindValue : Slate/900
+   
+name : Text/text-txt-light
+TailwindValue : Slate/600
+   
+name : Text/text-txt-placeholder
+TailwindValue : Slate/400
+   
+name : Text/text-txt-link
+TailwindValue : Blue/600
+   
+name : Text/text-txt-error
+TailwindValue : Red/900
+   
+name : Text/text-txt-info
+TailwindValue : Blue/900
+   
+name : Text/text-txt-warning
+TailwindValue : Orange/900
+   
+name : Text/text-txt-success
+TailwindValue : Teal/900
+   
+name : UI/App Background [deprecated]
+TailwindValue : Slate/50
+   
+name : UI/hover
+TailwindValue : Slate/50
+   
+name : UI/focus-bg
+TailwindValue : Violet/200
+   
+name : UI/white
+TailwindValue : 	White
+   
+name : UI/border
+TailwindValue : Slate/200
+   
+name : UI/selected
+TailwindValue : Violet/600
+   
+name : UI/toggle-bg
+TailwindValue : Slate/100
+   
+name : Status/error
+TailwindValue : Red/600
+   
+name : Status/critical
+TailwindValue : Slate/900
+   
+name : Status/success
+TailwindValue : Emerald/400
+   
+name : Status/warning
+TailwindValue : Orange/200
+   
+name : Status/neutral
+TailwindValue : Slate/200
+   
+name : Text/text-txt-focus
+TailwindValue : Violet/800
+   
+name : UI/focus
+TailwindValue : Violet/600
